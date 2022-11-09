@@ -1,0 +1,7 @@
+baseURL = '/'
+languageCode = 'en-gb'
+title = 'ICTects HUGO'
+theme = 'terminal'
+
+[params]
+  themeColor = 'green'
